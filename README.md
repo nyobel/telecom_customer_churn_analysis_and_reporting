@@ -2,6 +2,8 @@
 
 A comprehensive SQL Server data analysis project examining customer retention patterns in a telecommunications company. Built to identify churn risk factors, quantify revenue impact, and develop targeted retention strategies through systematic data cleaning and analysis.
 
+![Overview Dashboard](https://github.com/nyobel/telecom_customer_churn_analysis_and_reporting/blob/main/Dashboard%20Images/Overview.png?raw=true)
+
 ## 🎯 Project Overview
 
 This project transforms 7,043 customer records into actionable retention insights across four key dimensions:
