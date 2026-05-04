@@ -37,7 +37,7 @@ This project transforms 7,043 customer records into actionable retention insight
 ### 2️⃣ Payment & Service Analysis
 **Purpose**: Identify behavioral and service adoption patterns influencing retention
 
-https://github.com/nyobel/telecom_customer_churn_analysis_and_reporting/blob/main/Dashboard%20Images/churn_rate_by_payment_method%26tech_support.png
+![Overview Dashboard](https://github.com/nyobel/telecom_customer_churn_analysis_and_reporting/blob/main/Dashboard%20Images/churn_rate_by_payment_%26_service_analysis.png?raw=true)
 
 **Churn by Payment Method**:
 - Electronic check: **45.29% churn** (highest risk payment type)
